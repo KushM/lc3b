@@ -1,0 +1,176 @@
+C:/Users/Ashish/Desktop/lc3b/register16.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/register16.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module register16
+
+Top level modules:
+	register16
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/lc3b.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/lc3b.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module lc3b
+
+Top level modules:
+	lc3b
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/registerFile.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/registerFile.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module registerFile
+
+Top level modules:
+	registerFile
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/register.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/register.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/mdrMux.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/mdrMux.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module mdrMux
+
+Top level modules:
+	mdrMux
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/controlpath.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/controlpath.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module controlpath
+
+Top level modules:
+	controlpath
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/cc.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/cc.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module cc
+
+Top level modules:
+	cc
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/genCC.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/genCC.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module genCC
+
+Top level modules:
+	genCC
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/opMux.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/opMux.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module opMux
+
+Top level modules:
+	opMux
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/alu.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/alu.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/pcadder.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/pcadder.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module pcadder
+
+Top level modules:
+	pcadder
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/mdr.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/mdr.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module mdr
+
+Top level modules:
+	mdr
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/pc.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/pc.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/ir.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/ir.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module ir
+
+Top level modules:
+	ir
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/muxPC.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/muxPC.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module muxPC
+
+Top level modules:
+	muxPC
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/datapath.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/datapath.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/srMux.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/srMux.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module srMux
+
+Top level modules:
+	srMux
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/tbcontrol.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/tbcontrol.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module testbenchcontrol
+
+Top level modules:
+	testbenchcontrol
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/regMux.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/regMux.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module regMux
+
+Top level modules:
+	regMux
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/pcIncrement.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/pcIncrement.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module pcIncrement
+
+Top level modules:
+	pcIncrement
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/mar.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/mar.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module mar
+
+Top level modules:
+	mar
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/drMux.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/drMux.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module drMux
+
+Top level modules:
+	drMux
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/memory.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/memory.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/adjMux.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/adjMux.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module adjMux
+
+Top level modules:
+	adjMux
+
+} {} {}} C:/Users/Ashish/Desktop/lc3b/marMux.v {1 {vlog -work work C:/Users/Ashish/Desktop/lc3b/marMux.v
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module marMux
+
+Top level modules:
+	marMux
+
+} {} {}}

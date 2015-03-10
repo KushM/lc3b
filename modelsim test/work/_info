@@ -1,0 +1,491 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0
+vadjMux
+Z1 !s100 7Xi90U5;nT;WCLJRKzU@I2
+Z2 IC3>k;]K[?GHCjjlY7J5F81
+Z3 VdK88hKO]:_<6QhmE[=X?:0
+Z4 dC:\Users\Ashish\Desktop\lc3b\modelsim test
+Z5 w1413804486
+Z6 8C:/Users/Ashish/Desktop/lc3b/adjMux.v
+Z7 FC:/Users/Ashish/Desktop/lc3b/adjMux.v
+L0 1
+Z8 OV;L;10.1e;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/adjMux.v|
+Z10 o-work work -O0
+Z11 nadj@mux
+Z12 !s108 1413832977.511000
+Z13 !s107 C:/Users/Ashish/Desktop/lc3b/adjMux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+Z14 !s100 ?]>bImz7ajh=<<I0k<7QX1
+Z15 I2D6Oh`hYP6jzf2ihnZQBS0
+Z16 VaWjRzK2eNkNF>B7kohz7j2
+R4
+Z17 w1413805730
+Z18 8C:/Users/Ashish/Desktop/lc3b/alu.v
+Z19 FC:/Users/Ashish/Desktop/lc3b/alu.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/alu.v|
+R10
+Z21 !s108 1413832977.823000
+Z22 !s107 C:/Users/Ashish/Desktop/lc3b/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcc
+Z23 !s100 iklB?6SZ^O4R:TkzBFQK<1
+Z24 IS=C[:9FKj8:WXbLYjX2^I3
+Z25 VZnPd?T3JULRbBQfKM82nT1
+R4
+R5
+Z26 8C:/Users/Ashish/Desktop/lc3b/cc.v
+Z27 FC:/Users/Ashish/Desktop/lc3b/cc.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/cc.v|
+R10
+Z29 !s108 1413832978.120000
+Z30 !s107 C:/Users/Ashish/Desktop/lc3b/cc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrolpath
+Z31 !s100 dInmkSjA3NfdeU3L2jTMW3
+Z32 I?mh;eZM17@Uf=VnaKm83W1
+Z33 VA;FiVUXT2mINI8M9V5P_:2
+R4
+Z34 w1413831458
+Z35 8C:/Users/Ashish/Desktop/lc3b/controlpath.v
+Z36 FC:/Users/Ashish/Desktop/lc3b/controlpath.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/controlpath.v|
+R10
+Z38 !s108 1413832978.417000
+Z39 !s107 C:/Users/Ashish/Desktop/lc3b/controlpath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z40 !s100 D;R:ahM7_=WJ6PYiOz`i13
+Z41 IT:BZ0]Q6Ma9QN1S@b=XgK3
+Z42 VbEXk_[a8ViB6PkHnS2O9V0
+R4
+Z43 w1413806030
+Z44 8C:/Users/Ashish/Desktop/lc3b/datapath.v
+Z45 FC:/Users/Ashish/Desktop/lc3b/datapath.v
+L0 1
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/datapath.v|
+R10
+Z47 !s108 1413832978.730000
+Z48 !s107 C:/Users/Ashish/Desktop/lc3b/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdrMux
+Z49 !s100 N1kL:inFiYKea=6UfVi=O0
+Z50 IicSc@;_HPkdT60T]1KBVY0
+Z51 VhNL1h?^;In_j]Im;MKAFm0
+R4
+R5
+Z52 8C:/Users/Ashish/Desktop/lc3b/drMux.v
+Z53 FC:/Users/Ashish/Desktop/lc3b/drMux.v
+L0 1
+R8
+r1
+31
+Z54 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/drMux.v|
+R10
+Z55 ndr@mux
+Z56 !s108 1413832979.042000
+Z57 !s107 C:/Users/Ashish/Desktop/lc3b/drMux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vgenCC
+Z58 !s100 i]0e17JPJmQ]KmXo6DOV80
+Z59 IF4J93JmChPFZX7hmSI83I1
+Z60 VMDLO?F]NN6mDf_eR]N43i0
+R4
+R5
+Z61 8C:/Users/Ashish/Desktop/lc3b/genCC.v
+Z62 FC:/Users/Ashish/Desktop/lc3b/genCC.v
+L0 1
+R8
+r1
+31
+Z63 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/genCC.v|
+R10
+Z64 ngen@c@c
+Z65 !s108 1413832979.402000
+Z66 !s107 C:/Users/Ashish/Desktop/lc3b/genCC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vir
+Z67 !s100 L]EgmCOU2jHF^dlgdH:QO2
+Z68 Ikha>5iAeCo5g[AH`RlP=_0
+Z69 V09OJz]b:>D1L4OH`>_M9n1
+R4
+R5
+Z70 8C:/Users/Ashish/Desktop/lc3b/ir.v
+Z71 FC:/Users/Ashish/Desktop/lc3b/ir.v
+L0 1
+R8
+r1
+31
+Z72 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/ir.v|
+R10
+Z73 !s108 1413832979.714000
+Z74 !s107 C:/Users/Ashish/Desktop/lc3b/ir.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlc3b
+Z75 !s100 jmV1LGg9P0Uo2h4Sa:4Sn3
+Z76 IS>3G>Z`1iVSamEhj5L1kJ2
+Z77 VYU9lizkIIMmZ]<CeAdTL^3
+R4
+Z78 w1413806449
+Z79 8C:/Users/Ashish/Desktop/lc3b/lc3b.v
+Z80 FC:/Users/Ashish/Desktop/lc3b/lc3b.v
+L0 1
+R8
+r1
+31
+Z81 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/lc3b.v|
+R10
+Z82 !s108 1413832980.011000
+Z83 !s107 C:/Users/Ashish/Desktop/lc3b/lc3b.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmar
+Z84 !s100 bX=M[1d=L1D6;`I>ehbm]3
+Z85 I4;<Co`e:EP^5f;A14@e0m1
+Z86 VGW`ZA;3FkdSj6ne4_8fh01
+R4
+R5
+Z87 8C:/Users/Ashish/Desktop/lc3b/mar.v
+Z88 FC:/Users/Ashish/Desktop/lc3b/mar.v
+L0 1
+R8
+r1
+31
+Z89 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/mar.v|
+R10
+Z90 !s108 1413832980.292000
+Z91 !s107 C:/Users/Ashish/Desktop/lc3b/mar.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmarMux
+Z92 !s100 <WFkUB=VFaDEa<zd6abbZ2
+Z93 I:P;lZG]NCZBUJW8j8BW^j3
+Z94 VJbE0GTPX8niMg;hQJ_jR73
+R4
+R5
+Z95 8C:/Users/Ashish/Desktop/lc3b/marMux.v
+Z96 FC:/Users/Ashish/Desktop/lc3b/marMux.v
+L0 1
+R8
+r1
+31
+Z97 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/marMux.v|
+R10
+Z98 nmar@mux
+Z99 !s108 1413832980.574000
+Z100 !s107 C:/Users/Ashish/Desktop/lc3b/marMux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmdr
+Z101 !s100 k4JG9e[>c6l23G^1NfjPj0
+Z102 IY]Fjk2fz9l9:j[]650PVL2
+Z103 V^PK4z3na9dN4VF2OD89aI0
+R4
+R5
+Z104 8C:/Users/Ashish/Desktop/lc3b/mdr.v
+Z105 FC:/Users/Ashish/Desktop/lc3b/mdr.v
+L0 1
+R8
+r1
+31
+Z106 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/mdr.v|
+R10
+Z107 !s108 1413832980.870000
+Z108 !s107 C:/Users/Ashish/Desktop/lc3b/mdr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmdrMux
+Z109 !s100 @La^H7zT0j:k24h8H`f9m1
+Z110 IJ`G;`TDfX8HLz3N]m42eC1
+Z111 Vc@YK7b>lU>Hko1[eolWzg3
+R4
+R5
+Z112 8C:/Users/Ashish/Desktop/lc3b/mdrMux.v
+Z113 FC:/Users/Ashish/Desktop/lc3b/mdrMux.v
+L0 1
+R8
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/mdrMux.v|
+R10
+Z115 nmdr@mux
+Z116 !s108 1413832981.183000
+Z117 !s107 C:/Users/Ashish/Desktop/lc3b/mdrMux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemory
+Z118 IH0RFo@lG:>NlU^8l2^`zP1
+Z119 V:z<I3^e2@Nzi=;ki5360F1
+R4
+Z120 w1413832924
+Z121 8C:/Users/Ashish/Desktop/lc3b/memory.v
+Z122 FC:/Users/Ashish/Desktop/lc3b/memory.v
+L0 3
+R8
+r1
+31
+Z123 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/memory.v|
+R10
+Z124 !s100 FUnBl=R]>MV9Hn?c`EdBb1
+Z125 !s108 1413832981.480000
+Z126 !s107 C:/Users/Ashish/Desktop/lc3b/memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmuxPC
+Z127 !s100 IZ0]RcbZT2=0aQO6Dd3^i1
+Z128 Izj_IZ>ad>0a;H4@YNXhb70
+Z129 V@0d9;<9<0aDWg>W8PYUnz1
+R4
+R5
+Z130 8C:/Users/Ashish/Desktop/lc3b/muxPC.v
+Z131 FC:/Users/Ashish/Desktop/lc3b/muxPC.v
+L0 1
+R8
+r1
+31
+Z132 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/muxPC.v|
+R10
+Z133 nmux@p@c
+Z134 !s108 1413832981.792000
+Z135 !s107 C:/Users/Ashish/Desktop/lc3b/muxPC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vopMux
+Z136 !s100 Sj[7ZMn@NDcQUB:a><EhO0
+Z137 IMVk0OjPj@Fb^KeNGOY77R3
+Z138 V>=QNhk1=Nn`Vfa6P8CoPl3
+R4
+R5
+Z139 8C:/Users/Ashish/Desktop/lc3b/opMux.v
+Z140 FC:/Users/Ashish/Desktop/lc3b/opMux.v
+L0 1
+R8
+r1
+31
+Z141 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/opMux.v|
+R10
+Z142 nop@mux
+Z143 !s108 1413832982.105000
+Z144 !s107 C:/Users/Ashish/Desktop/lc3b/opMux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpc
+Z145 !s100 ^oHbezYCmM_DK6`:g2be31
+Z146 I:z3]ZI:<oYDHmCMKEKI272
+Z147 VJjN4=ZG8`7O<T^L>L;CWG2
+R4
+Z148 w1413811035
+Z149 8C:/Users/Ashish/Desktop/lc3b/pc.v
+Z150 FC:/Users/Ashish/Desktop/lc3b/pc.v
+L0 1
+R8
+r1
+31
+Z151 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/pc.v|
+R10
+Z152 !s108 1413832982.386000
+Z153 !s107 C:/Users/Ashish/Desktop/lc3b/pc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpcadder
+Z154 !s100 7MfEO]V`PB`dYgh`V^i_N0
+Z155 INHB4?o1zoU=HIU@H99Q9H0
+Z156 V1c7`c^APEMNA`Lk3dRaSd0
+R4
+R5
+Z157 8C:/Users/Ashish/Desktop/lc3b/pcadder.v
+Z158 FC:/Users/Ashish/Desktop/lc3b/pcadder.v
+L0 1
+R8
+r1
+31
+Z159 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/pcadder.v|
+R10
+Z160 !s108 1413832982.683000
+Z161 !s107 C:/Users/Ashish/Desktop/lc3b/pcadder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpcIncrement
+Z162 !s100 ]0kfVG_V?MgbL4kiYLk?73
+Z163 Il0EMAIOE^1gQTlleAhTbT2
+Z164 V?bWJ[^_AoGgI^RLQdP`Wm3
+R4
+R5
+Z165 8C:/Users/Ashish/Desktop/lc3b/pcIncrement.v
+Z166 FC:/Users/Ashish/Desktop/lc3b/pcIncrement.v
+L0 1
+R8
+r1
+31
+Z167 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/pcIncrement.v|
+R10
+Z168 npc@increment
+Z169 !s108 1413832982.980000
+Z170 !s107 C:/Users/Ashish/Desktop/lc3b/pcIncrement.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister
+Z171 !s100 8kOTZ@i]ol0Sa=k@@c=002
+Z172 Im3e3?C7Kb3T[NfoH<9a=Z0
+Z173 VFbff6ZjEajzEeC[^2gUVX2
+R4
+Z174 w1413804662
+Z175 8C:/Users/Ashish/Desktop/lc3b/register.v
+Z176 FC:/Users/Ashish/Desktop/lc3b/register.v
+L0 1
+R8
+r1
+31
+Z177 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/register.v|
+R10
+Z178 !s108 1413832983.292000
+Z179 !s107 C:/Users/Ashish/Desktop/lc3b/register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister16
+!i10b 1
+Z180 !s100 1fkN6oZ4Um7DzA9z:e=mJ3
+Z181 IOzkL2e2GoDEzQHg3QT2IX0
+Z182 VfN^P<0dS>ZzYdSaNdE;VP2
+R4
+Z183 w1413815886
+Z184 8C:/Users/Ashish/Desktop/lc3b/register16.v
+Z185 FC:/Users/Ashish/Desktop/lc3b/register16.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1413832984.792000
+!s107 C:/Users/Ashish/Desktop/lc3b/register16.v|
+Z186 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/register16.v|
+!s101 -O0
+R10
+vregisterFile
+Z187 !s100 0<iz<TiP9nX[;^;So^IbO1
+Z188 IA7SNId77CmLaH?f:58g?[1
+Z189 VjV:5_=A9UUH^^Umz]gJ6b2
+R4
+Z190 w1413806182
+Z191 8C:/Users/Ashish/Desktop/lc3b/registerFile.v
+Z192 FC:/Users/Ashish/Desktop/lc3b/registerFile.v
+L0 1
+R8
+r1
+31
+Z193 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/registerFile.v|
+R10
+Z194 nregister@file
+Z195 !s108 1413832983.605000
+Z196 !s107 C:/Users/Ashish/Desktop/lc3b/registerFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregMux
+Z197 !s100 mWG89i93hXBZSeTgIGk6i1
+Z198 IKZbMFgYjR;EUgQ2gPO]DS2
+Z199 V_`^zk;JMch8<XUo;b;?9h2
+R4
+R5
+Z200 8C:/Users/Ashish/Desktop/lc3b/regMux.v
+Z201 FC:/Users/Ashish/Desktop/lc3b/regMux.v
+L0 1
+R8
+r1
+31
+Z202 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/regMux.v|
+R10
+Z203 nreg@mux
+Z204 !s108 1413832983.886000
+Z205 !s107 C:/Users/Ashish/Desktop/lc3b/regMux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsrMux
+Z206 !s100 ]6LDT1>W@K9fO;j[ga70[3
+Z207 Il_4E7f5fh9NTD0Kbg:RkG0
+Z208 Vh]dcKd6>UNG]AGZIADAXL1
+R4
+R5
+Z209 8C:/Users/Ashish/Desktop/lc3b/srMux.v
+Z210 FC:/Users/Ashish/Desktop/lc3b/srMux.v
+L0 1
+R8
+r1
+31
+Z211 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/srMux.v|
+R10
+Z212 nsr@mux
+Z213 !s108 1413832984.120000
+Z214 !s107 C:/Users/Ashish/Desktop/lc3b/srMux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbenchcontrol
+Z215 !s100 a_1MI7J1DVD1>;MccReMV2
+Z216 Id_=16jO1`VF=fBFkXRV>m1
+Z217 VH0Wm;zmZQJ6Xe]kReo7=80
+R4
+Z218 w1413795585
+Z219 8C:/Users/Ashish/Desktop/lc3b/tbcontrol.v
+Z220 FC:/Users/Ashish/Desktop/lc3b/tbcontrol.v
+L0 1
+R8
+r1
+31
+Z221 !s90 -reportprogress|300|-work|work|C:/Users/Ashish/Desktop/lc3b/tbcontrol.v|
+R10
+!i10b 1
+!s85 0
+Z222 !s108 1413832984.433000
+Z223 !s107 C:/Users/Ashish/Desktop/lc3b/tbcontrol.v|
+!s101 -O0

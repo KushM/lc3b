@@ -1,0 +1,6 @@
+Warning (10268): Verilog HDL information at controlpath.v(214): always construct contains both blocking and non-blocking assignments
+Info (10281): Verilog HDL Declaration information at controlpath.v(29): object "N" differs only in case from object "n" in the same scope
+Info (10281): Verilog HDL Declaration information at controlpath.v(29): object "Z" differs only in case from object "z" in the same scope
+Info (10281): Verilog HDL Declaration information at controlpath.v(29): object "P" differs only in case from object "p" in the same scope
+Info (10281): Verilog HDL Declaration information at memory.v(17): object "load" differs only in case from object "LOAD" in the same scope
+Info (10281): Verilog HDL Declaration information at registerfile.v(11): object "load" differs only in case from object "LOAD" in the same scope
